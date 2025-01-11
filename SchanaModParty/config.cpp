@@ -36,14 +36,14 @@ class CfgMods
 			{
 				value = "";
 				files[] = {
-					"SchanaModParty/Game"
+					"SchanaModParty/3_Game"
 				};
 			};
 			class missionScriptModule
 			{
 				value = "";
 				files[] = {
-					"SchanaModParty/Mission"
+					"SchanaModParty/5_Mission"
 				};
 			};
 		};
