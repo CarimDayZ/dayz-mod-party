@@ -1,3 +1,8 @@
+# Deprecated
+
+Use dayz-mod-carim for updated code.
+
+
 # SchanaModParty
 
 Allows creation of parties and displaying of nametags of party members.
